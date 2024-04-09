@@ -7,3 +7,4 @@ a          aaaawwwwwwwww
 aaaa
 wwwwwwwwww
 dv
+COMMON STRING
