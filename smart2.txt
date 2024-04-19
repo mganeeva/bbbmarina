@@ -1,1 +1,2 @@
 TST-1 -- #comment comment 2 with smart commit
+TST-1 -- #comment comment 2 with smart commit
