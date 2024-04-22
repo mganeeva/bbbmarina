@@ -3,3 +3,4 @@ TST-1 -- #comment comment 2 with smart commit
 TST-1 -- #comment comment 5 with smart commit
 TST-1 -- #comment comment 6 with smart commit
 TST-1 -- #comment comment 7 with smart commit
+TST-1 -- #comment comment 8 with smart commit
