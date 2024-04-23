@@ -10,3 +10,4 @@ TST-1 -- #comment comment 11 with smart commit
 TST-1 -- #comment comment 12 with smart commit
 TST-1 -- #comment comment 13 with smart commit
 TST-1 -- #comment comment 14 with smart commit
+TST-1 #comment SmartCommit|GithubBFW|GeneralSettings|SendDevInfoEnabled|JiraSmartEnabled|GIJSmartEnabled|RepoSettings|SmartCommitsDisabled #in-progress
