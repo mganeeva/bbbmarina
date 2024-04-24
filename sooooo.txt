@@ -7,3 +7,4 @@ a          aaaawwwwwwwww
 aaaa
 wwwwwwwwww
 dv
+TST-1 #comment master SmartCommit|GithubBFW|GeneralSettings|SendDevInfoEnabled|JiraSmartEnabled|GIJSmartEnabled|RepoSettings|SmartCommitsDisabled #in-progress
