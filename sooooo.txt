@@ -15,3 +15,6 @@ TST-1 #comment SmartCommit|GithubBFW|GeneralSettings|SendDevInfoEnabled|JiraSmar
 TST-1 #comment SmartCommit|GithubBFW|GeneralSettings|SendDevInfoEnabled|JiraSmartEnabled|GIJSmartEnabled|RepoSettings|SmartCommitsEnabled #in-progress
 TST-1 #comment SmartCommit|GithubBFW|Test86|2406101529 #label 2406101529
 TST-1 #comment SmartCommit|GithubBFW|Test86|2406101553 #label 2406101553
+
+TST-1 #comment SmartCommit|GithubBFW|GeneralSettings|SendDevInfoEnabled|JiraSmartEnabled|GIJSmartEnabled|RepoSettings|SmartCommitsDisabled #in-progress
+
